@@ -1,4 +1,4 @@
-#SpaceX App
+# SpaceX App
 
 List launch missions pulling data from the [SpaceX API](https://github.com/r-spacex/SpaceX-API). Built with React, GraphQL and Apollo.
 
