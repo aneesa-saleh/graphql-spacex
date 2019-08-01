@@ -65,6 +65,10 @@ const renderLaunch = ({ loading, error, data }) => {
               <li className="list-group-item">Rocket Type: {rocket_type}</li>
 
         </ul>
+
+        <hr />
+
+        <Link to="/" className="btn btn-secondary">Back</Link>
       </Fragment>
     );
   }
